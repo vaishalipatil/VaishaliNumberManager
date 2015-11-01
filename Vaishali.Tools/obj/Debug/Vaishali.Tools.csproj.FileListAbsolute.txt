@@ -1,0 +1,9 @@
+C:\Users\vpatil\Documents\Visual Studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.Tools\bin\Debug\Vaishali.Tools.dll
+C:\Users\vpatil\Documents\Visual Studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.Tools\bin\Debug\Vaishali.Tools.pdb
+C:\Users\vpatil\Documents\Visual Studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.Tools\obj\Debug\Vaishali.Tools.csprojResolveAssemblyReference.cache
+C:\Users\vpatil\Documents\Visual Studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.Tools\obj\Debug\Vaishali.Tools.dll
+C:\Users\vpatil\Documents\Visual Studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.Tools\obj\Debug\Vaishali.Tools.pdb
+C:\Users\vpatil\Documents\Visual Studio 2015\Projects\Vaishali.NumberManager\Vaishali.Tools\bin\Debug\Vaishali.Tools.dll
+C:\Users\vpatil\Documents\Visual Studio 2015\Projects\Vaishali.NumberManager\Vaishali.Tools\bin\Debug\Vaishali.Tools.pdb
+C:\Users\vpatil\Documents\Visual Studio 2015\Projects\Vaishali.NumberManager\Vaishali.Tools\obj\Debug\Vaishali.Tools.dll
+C:\Users\vpatil\Documents\Visual Studio 2015\Projects\Vaishali.NumberManager\Vaishali.Tools\obj\Debug\Vaishali.Tools.pdb

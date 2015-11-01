@@ -1,0 +1,5 @@
+c:\users\vpatil\documents\visual studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.Tools\obj\Debug\Telnet.Tools.csprojResolveAssemblyReference.cache
+c:\users\vpatil\documents\visual studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.Tools\bin\Debug\Telnet.Tools.dll
+c:\users\vpatil\documents\visual studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.Tools\bin\Debug\Telnet.Tools.pdb
+c:\users\vpatil\documents\visual studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.Tools\obj\Debug\Telnet.Tools.dll
+c:\users\vpatil\documents\visual studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.Tools\obj\Debug\Telnet.Tools.pdb

@@ -1,0 +1,5 @@
+C:\Users\vpatil\Documents\Visual Studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.DataAccess\bin\Debug\Telnet.DataAccess.dll
+C:\Users\vpatil\Documents\Visual Studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.DataAccess\bin\Debug\Telnet.DataAccess.pdb
+C:\Users\vpatil\Documents\Visual Studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.DataAccess\obj\Debug\Telnet.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\vpatil\Documents\Visual Studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.DataAccess\obj\Debug\Telnet.DataAccess.dll
+C:\Users\vpatil\Documents\Visual Studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.DataAccess\obj\Debug\Telnet.DataAccess.pdb

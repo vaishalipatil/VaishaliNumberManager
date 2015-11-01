@@ -1,0 +1,9 @@
+C:\Users\vpatil\Documents\Visual Studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.DataAccess\bin\Debug\Vaishali.DataAccess.dll
+C:\Users\vpatil\Documents\Visual Studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.DataAccess\bin\Debug\Vaishali.DataAccess.pdb
+C:\Users\vpatil\Documents\Visual Studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.DataAccess\obj\Debug\Vaishali.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\vpatil\Documents\Visual Studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.DataAccess\obj\Debug\Vaishali.DataAccess.dll
+C:\Users\vpatil\Documents\Visual Studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.DataAccess\obj\Debug\Vaishali.DataAccess.pdb
+C:\Users\vpatil\Documents\Visual Studio 2015\Projects\Vaishali.NumberManager\Vaishali.DataAccess\bin\Debug\Vaishali.DataAccess.dll
+C:\Users\vpatil\Documents\Visual Studio 2015\Projects\Vaishali.NumberManager\Vaishali.DataAccess\bin\Debug\Vaishali.DataAccess.pdb
+C:\Users\vpatil\Documents\Visual Studio 2015\Projects\Vaishali.NumberManager\Vaishali.DataAccess\obj\Debug\Vaishali.DataAccess.dll
+C:\Users\vpatil\Documents\Visual Studio 2015\Projects\Vaishali.NumberManager\Vaishali.DataAccess\obj\Debug\Vaishali.DataAccess.pdb

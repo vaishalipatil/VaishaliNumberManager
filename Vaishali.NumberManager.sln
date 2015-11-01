@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vaishali.Framework", "Vaishali.Framework\Vaishali.Framework.csproj", "{C0D4CC64-E257-4771-8A33-73F80D0DCD66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vaishali.DataAccess", "Vaishali.DataAccess\Vaishali.DataAccess.csproj", "{90F49755-435F-4976-A48E-2782B5427154}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vaishali.NumberManager", "Vaishali.NumberManager\Vaishali.NumberManager.csproj", "{1B36108D-AAA3-4216-9049-901D030D53DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vaishali .DataModel", "Vaishali .DataModel\Vaishali .DataModel.csproj", "{F706158B-823D-44BA-9676-8F48E68A70E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0D4CC64-E257-4771-8A33-73F80D0DCD66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0D4CC64-E257-4771-8A33-73F80D0DCD66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0D4CC64-E257-4771-8A33-73F80D0DCD66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0D4CC64-E257-4771-8A33-73F80D0DCD66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90F49755-435F-4976-A48E-2782B5427154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F49755-435F-4976-A48E-2782B5427154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F49755-435F-4976-A48E-2782B5427154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F49755-435F-4976-A48E-2782B5427154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B36108D-AAA3-4216-9049-901D030D53DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B36108D-AAA3-4216-9049-901D030D53DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B36108D-AAA3-4216-9049-901D030D53DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B36108D-AAA3-4216-9049-901D030D53DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F706158B-823D-44BA-9676-8F48E68A70E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F706158B-823D-44BA-9676-8F48E68A70E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F706158B-823D-44BA-9676-8F48E68A70E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F706158B-823D-44BA-9676-8F48E68A70E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+c:\users\vpatil\documents\visual studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.NumberManager.Vaishali\bin\Debug\Telnet.NumberManager.Vaishali.exe.config
+c:\users\vpatil\documents\visual studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.NumberManager.Vaishali\bin\Debug\Telnet.NumberManager.Vaishali.exe
+c:\users\vpatil\documents\visual studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.NumberManager.Vaishali\bin\Debug\Telnet.NumberManager.Vaishali.pdb
+c:\users\vpatil\documents\visual studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.NumberManager.Vaishali\obj\Debug\Telnet.NumberManager.Vaishali.csprojResolveAssemblyReference.cache
+c:\users\vpatil\documents\visual studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.NumberManager.Vaishali\obj\Debug\MainWindow.g.cs
+c:\users\vpatil\documents\visual studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.NumberManager.Vaishali\obj\Debug\App.g.cs
+c:\users\vpatil\documents\visual studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.NumberManager.Vaishali\obj\Debug\Telnet.NumberManager.Vaishali_MarkupCompile.cache
+c:\users\vpatil\documents\visual studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.NumberManager.Vaishali\obj\Debug\MainWindow.baml
+c:\users\vpatil\documents\visual studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.NumberManager.Vaishali\obj\Debug\Telnet.NumberManager.Vaishali.g.resources
+c:\users\vpatil\documents\visual studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.NumberManager.Vaishali\obj\Debug\Telnet.NumberManager.Vaishali.Properties.Resources.resources
+c:\users\vpatil\documents\visual studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.NumberManager.Vaishali\obj\Debug\Telnet.NumberManager.Vaishali.csproj.GenerateResource.Cache
+c:\users\vpatil\documents\visual studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.NumberManager.Vaishali\obj\Debug\Telnet.NumberManager.Vaishali.exe
+c:\users\vpatil\documents\visual studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.NumberManager.Vaishali\obj\Debug\Telnet.NumberManager.Vaishali.pdb
+C:\Users\vpatil\Documents\Visual Studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.NumberManager.Vaishali\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\vpatil\Documents\Visual Studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.NumberManager.Vaishali\obj\Debug\Telnet.NumberManager.Vaishali_MarkupCompile.lref
+C:\Users\vpatil\Documents\Visual Studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.NumberManager.Vaishali\bin\Debug\Telnet.Framework.dll
+C:\Users\vpatil\Documents\Visual Studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.NumberManager.Vaishali\bin\Debug\Telnet.Framework.pdb

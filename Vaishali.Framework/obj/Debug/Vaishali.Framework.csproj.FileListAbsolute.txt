@@ -1,0 +1,8 @@
+C:\Users\vpatil\Documents\Visual Studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.Framework\bin\Debug\Vaishali.Framework.dll
+C:\Users\vpatil\Documents\Visual Studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.Framework\bin\Debug\Vaishali.Framework.pdb
+C:\Users\vpatil\Documents\Visual Studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.Framework\obj\Debug\Vaishali.Framework.dll
+C:\Users\vpatil\Documents\Visual Studio 2015\Projects\Telnet.NumberManager.Vaishali\Telnet.Framework\obj\Debug\Vaishali.Framework.pdb
+C:\Users\vpatil\Documents\Visual Studio 2015\Projects\Vaishali.NumberManager\Vaishali.Framework\bin\Debug\Vaishali.Framework.dll
+C:\Users\vpatil\Documents\Visual Studio 2015\Projects\Vaishali.NumberManager\Vaishali.Framework\bin\Debug\Vaishali.Framework.pdb
+C:\Users\vpatil\Documents\Visual Studio 2015\Projects\Vaishali.NumberManager\Vaishali.Framework\obj\Debug\Vaishali.Framework.dll
+C:\Users\vpatil\Documents\Visual Studio 2015\Projects\Vaishali.NumberManager\Vaishali.Framework\obj\Debug\Vaishali.Framework.pdb

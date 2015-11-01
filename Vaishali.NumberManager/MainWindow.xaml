@@ -1,0 +1,57 @@
+﻿<Window x:Class="Vaishali.NumberManager.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="MainWindow"  Width="500">
+
+    <Grid Width="500">
+       <Grid.Resources>
+            <Style x:Key="TextBoxBaseStyle">
+                <Setter Property="Control.Height" Value="30" />
+                <Setter Property="Control.Width" Value="60" />
+                <Style.Triggers>
+                            <Trigger Property="Validation.HasError" Value="True">
+                                <Setter Property="Control.Background" Value="Pink"/>
+                        <Setter Property="Control.ToolTip"
+                        Value="{Binding RelativeSource={x:Static RelativeSource.Self},
+                        Path=(Validation.Errors).CurrentItem.ErrorContent}"/>
+                            </Trigger>
+                        </Style.Triggers>
+            </Style>
+            <Style x:Key="ButtonStyle">
+                <Setter Property="Control.Height" Value="25" />
+                <Setter Property="Control.Width" Value="60" />
+            </Style>
+            <Style x:Key="LabelStyle">
+                <Setter Property="Control.Height" Value="25" />
+                <Setter Property="Control.Width" Value="20" />
+            </Style>
+        </Grid.Resources>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions> 
+       <Grid.RowDefinitions>
+            <RowDefinition Height="35"/>
+            <RowDefinition />
+       </Grid.RowDefinitions>
+        <ListView  ItemsSource="{Binding Numbers}" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" HorizontalAlignment="Center" Name="NumbersView">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Grid HorizontalAlignment="Stretch">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Label Grid.Column ="0" Style="{StaticResource LabelStyle}" Content="{Binding NumberIndex, Mode=OneWay}"/>
+                        <TextBox Grid.Column ="1" Text="{Binding NumberValue, Mode=TwoWay, ValidatesOnDataErrors=True}" Style="{StaticResource TextBoxBaseStyle}"></TextBox>
+                    </Grid>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Button Grid.Column="0" Grid.Row="0" Command="{Binding Path=ReadCommand}"  Name="Read" Style="{StaticResource ButtonStyle}" Content="Read"></Button>
+        <Button Grid.Column="1"  Grid.Row="0" Command="{Binding Path=WriteCommand}" Name="Write" Style="{StaticResource ButtonStyle}" Content="Write"></Button>
+    </Grid>
+</Window>
